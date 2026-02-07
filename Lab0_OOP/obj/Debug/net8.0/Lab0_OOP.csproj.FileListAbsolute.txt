@@ -1,0 +1,14 @@
+C:\Users\Timofey\Desktop\Lab0_OOP\bin\Debug\net8.0\Lab0_OOP.exe
+C:\Users\Timofey\Desktop\Lab0_OOP\bin\Debug\net8.0\Lab0_OOP.deps.json
+C:\Users\Timofey\Desktop\Lab0_OOP\bin\Debug\net8.0\Lab0_OOP.runtimeconfig.json
+C:\Users\Timofey\Desktop\Lab0_OOP\bin\Debug\net8.0\Lab0_OOP.dll
+C:\Users\Timofey\Desktop\Lab0_OOP\bin\Debug\net8.0\Lab0_OOP.pdb
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\Lab0_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\Lab0_OOP.AssemblyInfoInputs.cache
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\Lab0_OOP.AssemblyInfo.cs
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\Lab0_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\Lab0_OOP.dll
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\refint\Lab0_OOP.dll
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\Lab0_OOP.pdb
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\Lab0_OOP.genruntimeconfig.cache
+C:\Users\Timofey\Desktop\Lab0_OOP\obj\Debug\net8.0\ref\Lab0_OOP.dll
